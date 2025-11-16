@@ -1,0 +1,7 @@
+This file lists the Python libraries needed to run the app.
+
+Free hosting platforms will read this file to install dependencies.
+
+yfinance
+pandas
+streamlit
