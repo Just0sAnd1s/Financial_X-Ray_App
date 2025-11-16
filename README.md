@@ -1,6 +1,6 @@
 # Financial_X-Ray_App
 
-Financial X-Ray Tool 📈
+## Financial X-Ray Tool 📈
 
 This is a simple web application built in Python using Streamlit that performs a "15-Minute X-Ray" financial analysis on public companies.
 
@@ -14,9 +14,9 @@ Cash Conversion Ratio: Analyzes the quality of earnings by comparing Operating C
 
 Current Ratio (Liquidity): Assesses short-term financial health and liquidity risk.
 
-How to Run Locally
+### How to Run Locally
 
-Clone the Repository:
+# 1. Clone the Repository:
 
 git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
 cd your-repository-name
