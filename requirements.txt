@@ -1,7 +1,7 @@
-This file lists the Python libraries needed to run the app.
+# This file lists the Python libraries needed to run the app.
 
-Free hosting platforms will read this file to install dependencies.
+# We are pinning versions to ensure compatibility on Streamlit Cloud.
 
-yfinance
-pandas
-streamlit
+streamlit==1.33.0
+pandas==2.1.4
+yfinance==0.2.37
