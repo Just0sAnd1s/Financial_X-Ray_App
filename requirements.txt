@@ -1,7 +1,7 @@
 # This file lists the Python libraries needed to run the app.
+# By not pinning versions, we allow Streamlit to find the
+# latest compatible versions for its Python environment.
 
-# We are pinning versions to ensure compatibility on Streamlit Cloud.
-
-streamlit==1.33.0
-pandas==2.1.4
-yfinance==0.2.37
+streamlit
+pandas
+yfinance
